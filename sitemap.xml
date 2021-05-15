@@ -1,149 +1,333 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Live version at: https://www.fatpick.com/sitemap.xml -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-  <url><loc>https://www.fatpick.com/learn-to-play-guitar</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-
-  <!-- support -->
-  <url><loc>https://www.fatpick.com/support/downloads</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.fatpick.com/support/users-guide</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.fatpick.com/support/troubleshooting</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.fatpick.com/support</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/contact-us</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <!-- /support -->
-
-  <!-- tabs -->
-  <url><loc>https://www.fatpick.com/tabs</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <!-- tabs: johnny cash -->
-  <url><loc>https://www.fatpick.com/tabs/johnny-cash</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/johnny-cash/walk-the-line</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/johnny-cash/walk-the-line/lead-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/johnny-cash/walk-the-line/rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: billie-eilish -->
-  <url><loc>https://www.fatpick.com/tabs/billie-eilish</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/billie-eilish/billie-eilish-bad-guy</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/billie-eilish/billie-eilish-bad-guy/guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/billie-eilish/billie-eilish-bad-guy/bass</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: billy-idol -->
-  <url><loc>https://www.fatpick.com/tabs/billy-idol</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/billy-idol/rebel-yell</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/billy-idol/rebel-yell/guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: bob-marley -->
-  <url><loc>https://www.fatpick.com/tabs/bob-marley</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/bob-marley/three-little-birds</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/bob-marley/three-little-birds/bass</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/bob-marley/three-little-birds/guitar-melody</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/bob-marley/three-little-birds/rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: def-leppard -->
-  <url><loc>https://www.fatpick.com/tabs/def-leppard</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/def-leppard/pour-some-sugar-on-me</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/def-leppard/pour-some-sugar-on-me/bass</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/def-leppard/pour-some-sugar-on-me/guitar-1</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/def-leppard/pour-some-sugar-on-me/guitar-2</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: foster-the-people -->
-  <url><loc>https://www.fatpick.com/tabs/foster-the-people</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/foster-the-people/pumped-up-kicks</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/foster-the-people/pumped-up-kicks/bass</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: green-day -->
-  <url><loc>https://www.fatpick.com/tabs/green-day</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/green-day/when-i-come-around</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/green-day/when-i-come-around/bass</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/green-day/when-i-come-around/guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/green-day/boulevard-of-broken-dreams</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/green-day/boulevard-of-broken-dreams/bass</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/green-day/boulevard-of-broken-dreams/rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/green-day/boulevard-of-broken-dreams/vocal-as-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: john-denver -->
-  <url><loc>https://www.fatpick.com/tabs/john-denver</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/john-denver/country-roads</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/john-denver/country-roads/guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: johnny cash -->
-  <url><loc>https://www.fatpick.com/tabs/johnny-cash</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/johnny-cash/walk-the-line</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/johnny-cash/walk-the-line/lead-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/johnny-cash/walk-the-line/rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: nirvana -->
-  <url><loc>https://www.fatpick.com/tabs/nirvana</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/nirvana/dumb</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/nirvana/dumb/guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/nirvana/dumb/vocal-as-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: oasis -->
-  <url><loc>https://www.fatpick.com/tabs/oasis</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/oasis/wonderwall</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/oasis/wonderwall/bass</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/oasis/wonderwall/guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/oasis/wonderwall/vocal-as-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: pixies -->
-  <url><loc>https://www.fatpick.com/tabs/pixies</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/pixies/i-bleed</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/pixies/i-bleed/bass-kim-deal</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/pixies/i-bleed/guitar-frank-black</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/pixies/i-bleed/guitar-joey-santiago</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: the-cure -->
-  <url><loc>https://www.fatpick.com/tabs/the-cure</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/the-cure/cure-just-like-heaven</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/the-cure/cure-just-like-heaven/acoustic-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/the-cure/cure-just-like-heaven/bass-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/the-cure/cure-just-like-heaven/lead-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/the-cure/cure-just-like-heaven/rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/the-cure/cure-just-like-heaven/vocal-as-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: the-killers -->
-  <url><loc>https://www.fatpick.com/tabs/the-killers</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/the-killers/mr-brightside</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/the-killers/mr-brightside/bass</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/the-killers/mr-brightside/guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: the-replacements -->
-  <url><loc>https://www.fatpick.com/tabs/the-replacements</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/the-replacements/i-will-dare</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/the-replacements/i-will-dare/bass</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/the-replacements/i-will-dare/guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- tabs: various -->
-  <url><loc>https://www.fatpick.com/tabs/various</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/various/exercise-12-bar-blues</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/various/exercise-12-bar-blues/guitar-1</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.fatpick.com/tabs/various/exercise-12-bar-blues/guitar-2</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <!-- /tabs -->
-
+  <!-- assorted -->
+  <url><loc>https://www.fatpick.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/get</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/fatpick-vs</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/about/media-kit</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <!-- free stuff -->
-  <url><loc>https://www.fatpick.com/printables</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.fatpick.com/printables/fretboard</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.fatpick.com/printables/pentatonic-scale-patterns-bass</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.fatpick.com/printables/blank-tabs</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.fatpick.com/c/how-to-read-guitar-tabs</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <!-- free stuff: files -->
-  <url><loc>https://www.fatpick.com/printables/guitar-and-bass-fretboards.png</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/guitar-and-bass-fretboard-a4.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/guitar-and-bass-fretboard-lt.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/guitar-fretboard-800x300.png</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/guitar-fretboard-a4.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/guitar-fretboard-lt.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/bass-fretboard-800x300.png</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/bass-guitar-fretboard-a4.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/bass-guitar-fretboard-lt.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/pentatonic-scale-patterns-bass-a4.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/pentatonic-scale-patterns-bass-lt.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/bass-5str-tab-ls-a4.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/bass-5str-tab-ls-lr.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/bass-5str-tab-pt-a4.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/bass-5str-tab-pt-lr.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/bass-tab-ls-a4.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/bass-tab-ls-lr.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/bass-tab-pt-a4.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/bass-tab-pt-lr.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/blank-bass-tablature-portrait-a4.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/blank-bass-tablature-portrait-letter.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/blank-guitar-tablature-portrait-a4.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/blank-guitar-tablature-portrait-letter.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/guitar-tab-ls-a4.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/guitar-tab-ls-lr.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/guitar-tab-pt-a4.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://www.fatpick.com/printables/guitar-tab-pt-lr.pdf</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <!-- /free stuff: files -->
-  <!-- /free stuff -->
-
+  <url><loc>https://www.fatpick.com/tools/fretboard-generator</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/printables</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.fatpick.com/printables/fretboard</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/printables/pentatonic-scale-patterns-guitar</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.fatpick.com/printables/pentatonic-scale-patterns-bass</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.fatpick.com/printables/blank-tabs</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <!-- songs -->
+  <url><loc>https://www.fatpick.com/songs</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/songs?q=metallica</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.fatpick.com/songs?q=nirvana</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.fatpick.com/songs?q=the</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/tabs</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <!-- support -->
+  <url><loc>https://www.fatpick.com/support</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/support/install-windows</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=troubleshooting,windows</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=macos,troubleshooting</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/support/users-guide</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.fatpick.com/support/troubleshooting</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.fatpick.com/support/download-for-linux</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <!-- older -->
+  <url><loc>https://www.fatpick.com/how-it-works</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/learn-to-play-guitar</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <!-- blog -->
+  <url><loc>https://www.fatpick.com/blog</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <!-- blog: tags -->
+  <url><loc>https://www.fatpick.com/blog?in=about-us</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=archive</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=beginner</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=charts</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=engineering</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=features</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=guitar</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=guitar-tech</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=guitarpro</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=how-to</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=linux</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=macos</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=press</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=release-notes</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=release-notes--features</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=screenshots</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=support</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=tablature</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=tabs</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=tools</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=troubleshooting</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=windows</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/blog?in=year-in-review-2020</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <!-- blog: posts -->
+  <url><loc>https://www.fatpick.com/blog/top-songs-apr-2021</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-interactive-fretboard-chart</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v2-4-1</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/fatpick-v1-retired</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v2-4-0</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-metronome-track</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/find-guitar-pro-tabs</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-auto-update</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-shortcut-keys</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/fatpick-cracked</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v2-3-4</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-song-search-filters</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-app-logs</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/top-songs-mar-2021</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/song-library</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v2-3-3</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/nvidia-gpu-acceleration</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v2-3-2</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/xref-press-kit</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/troubleshooting-performance-issues</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/xref-install-windows</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v2-3-0</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/ms-edge-install</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/retiring-v1-app</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v2-2-0</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/top-songs-feb-2021</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v2-1-2</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v2-1-1</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-add-custom-songs</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/troubleshooting-account-log-in</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-track-mixer</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v2-0-0</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/screen-shot-archive-01</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-7-10</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-guitar-chord-database</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-7-7</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/2020-yir-user-behavior</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-metronome-tool</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-share-your-feedback</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/2020-yir-song-catalog</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/top-songs-november-2020</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-7-4</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-fretboard-heatmap</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-7-3</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-tools-menu</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-7-2</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-left-handed-mode</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-7-0</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-6-9</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-metronome-count-in</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-voice-start</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-playback-rate</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-6-7</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/new-songs-alice-in-chains-metallica-dragonforce-kiss-at-the-gates</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-6-6</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-6-5</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/new-songs-violent-femmes-strokes-clash-u2-eminem</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/new-songs-sleater-kinney-primus-rhcp-sonic-youth-john-legend</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-6-3</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-6-1</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-looping-repeat</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-song-nav</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-5-6</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-report-song</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-chords-strumming</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-5-1</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-advanced-pitch-detection</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-guitar-pro-import</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/choose-guitar-strings-hurry-extended</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-5-0</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-4-3</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-my-stats</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-4-2-linux</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-4-2</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/feature-themes</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-3-4</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/string-core-wind</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-3-2</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/choose-guitar-strings-in-a-hurry</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/why-are-guitar-strings-so-complicated</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-3-1</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/fretboard-chart-tool</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-2-0</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/tab-player-that-listens</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/why-electron</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-1-2</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/how-to-read-guitar-tabs</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-0-7</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/tech-stack-2019</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/blog/release-notes-fatpick-v1-0-5</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <!-- blog: authors -->
+  <url><loc>https://www.fatpick.com/blog?by=courtney</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.fatpick.com/blog?by=edison</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.fatpick.com/blog?by=rod</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <!-- tabs -->
+  <url><loc>https://www.fatpick.com/tabs/ac-dc</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/ac-dc/back-in-black</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/ac-dc/back-in-black/malcolm-young-rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/ac-dc/back-in-black/angus-young-lead-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/ac-dc/back-in-black/cliff-williams-bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/johnny-cash</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/johnny-cash/walk-the-line</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/johnny-cash/walk-the-line/rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/johnny-cash/walk-the-line/lead-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-cure</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-cure/cure-just-like-heaven</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-cure/cure-just-like-heaven/acoustic-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-cure/cure-just-like-heaven/rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-cure/cure-just-like-heaven/lead-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-cure/cure-just-like-heaven/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-cure/cure-just-like-heaven/vocal-as-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/def-leppard</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/def-leppard/pour-some-sugar-on-me</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/def-leppard/pour-some-sugar-on-me/guitar-1</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/def-leppard/pour-some-sugar-on-me/guitar-2</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/def-leppard/pour-some-sugar-on-me/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/john-denver</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/john-denver/country-roads</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/john-denver/country-roads/guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/billie-eilish</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/billie-eilish/billie-eilish-bad-guy</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/billie-eilish/billie-eilish-bad-guy/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/billie-eilish/billie-eilish-bad-guy/guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/foster-the-people</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/foster-the-people/pumped-up-kicks</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/foster-the-people/pumped-up-kicks/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/green-day</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/green-day/boulevard-of-broken-dreams</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/green-day/boulevard-of-broken-dreams/vocal-as-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/green-day/boulevard-of-broken-dreams/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/green-day/boulevard-of-broken-dreams/rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/green-day/when-i-come-around</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/green-day/when-i-come-around/guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/green-day/when-i-come-around/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/guns-n-roses</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/guns-n-roses/sweet-child-o-mine</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/guns-n-roses/sweet-child-o-mine/rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/guns-n-roses/sweet-child-o-mine/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/guns-n-roses/sweet-child-o-mine/lead-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/guns-n-roses/sweet-child-o-mine/steel-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/guns-n-roses/sweet-child-o-mine/strings-as-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/guns-n-roses/sweet-child-o-mine/vocal-as-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/billy-idol</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/billy-idol/rebel-yell</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/billy-idol/rebel-yell/guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-killers</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-killers/mr-brightside</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-killers/mr-brightside/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-killers/mr-brightside/guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/leadbelly</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/leadbelly/where-did-you-sleep-last-night</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/leadbelly/where-did-you-sleep-last-night/guitar-melody</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/leadbelly/where-did-you-sleep-last-night/guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/bob-marley</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/bob-marley/three-little-birds</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/bob-marley/three-little-birds/guitar-melody</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/bob-marley/three-little-birds/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/bob-marley/three-little-birds/rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/nirvana</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/nirvana/come-as-you-are</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/nirvana/come-as-you-are/kurt-cobain-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/nirvana/come-as-you-are/krist-novoselic-bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/nirvana/nirvana-dumb</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/nirvana/nirvana-dumb/vocal-as-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/nirvana/nirvana-dumb/guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/oasis</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/oasis/wonderwall</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/oasis/wonderwall/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/oasis/wonderwall/vocal-as-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/oasis/wonderwall/guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pink=floyd</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pink=floyd/comfortably-numb</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pink=floyd/comfortably-numb/synth-strings</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pink=floyd/comfortably-numb/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pink=floyd/comfortably-numb/rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pink=floyd/comfortably-numb/lead-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pixies</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pixies/pixies-debaser</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pixies/pixies-debaser/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pixies/pixies-debaser/rhythm-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pixies/pixies-debaser/lead-guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pixies/i-bleed</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pixies/i-bleed/guitar-frank-black</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pixies/i-bleed/bass-kim-deal</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/pixies/i-bleed/guitar-joey-santiago</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-replacements</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-replacements/i-will-dare</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-replacements/i-will-dare/guitar</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/the-replacements/i-will-dare/bass</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/various</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/various/exercise-12-bar-blues</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/various/exercise-12-bar-blues/guitar-2</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://www.fatpick.com/tabs/various/exercise-12-bar-blues/guitar-1</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <!-- tunings -->
+  <url><loc>https://www.fatpick.com/tuning</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/standard</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/eadgbe</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/open-a</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/eacseae</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/open-b</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/bfsbfsbds</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/open-c</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/cgcgce</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/open-d</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/dadfsad</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/open-e</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/ebegsbe</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/open-f</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/cfcfac</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/open-g</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/dgdbgd</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/spanish</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/chicago</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/dobro-open-g</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/gbdgbd</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/drop-a</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/aeadfsb</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/drop-b</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/bfsbegscs</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/bgfbeafdf</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/drop-c</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/cgcfad</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/drop-d</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/dadgbe</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/drop-e</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/ebeadfgf</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/drop-F</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/fcfbfdg</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/drop-G</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/gdgcea</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/double-drop-d</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/6-string/dadgbd</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/7-string</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/7-string/standard</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/7-string/beadgbe</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/7-string/open-g</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/7-string/russian</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/7-string/dgbdgbd</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/7-string/classical</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/7-string/cgbdgbd</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/8-string</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/8-string/standard</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/8-string/fsbeadgbe</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/8-string/alt-standard</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/guitar/8-string/ebeadgbe</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string/standard</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string/eadg</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string/drop-c</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string/cadg</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string/drop-d</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string/dadg</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string/five-string-style</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string/bead</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string/full-step-down</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string/dgcf</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string/half-step-down</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/4-string/ebabdbgb</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/5-string</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/5-string/standard</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/5-string/beadg</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/6-string</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/6-string/standard</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.fatpick.com/tuning/bass/6-string/beadgc</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
   <!-- legal -->
+  <url><loc>https://www.fatpick.com/legal</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
   <url><loc>https://www.fatpick.com/legal/privacy</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
   <url><loc>https://www.fatpick.com/legal/acknowledgements</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
-  <url><loc>https://www.fatpick.com/legal</loc><changefreq>monthly</changefreq><priority>0.1</priority></url>
-  <!-- /legal -->
-
+  <url><loc>https://www.fatpick.com/legal/tos</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://www.fatpick.com/legal/dmca</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
 </urlset>
