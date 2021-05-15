@@ -26,7 +26,7 @@ Visit [FATpick.com](https://www.fatpick.com/) for:
 
  * Handy [Online Tools](https://www.fatpick.com/tools/fretboard-generator) and [Other](https://www.fatpick.com/songs) [Free](https://www.fatpick.com/tuning) [Guitar](https://www.fatpick.com/printables/pentatonic-scale-patterns-guitar) [Resources](https://www.fatpick.com/printables/blank-tabs)
 
- * [Demos](https://www.fatpick.com/get#better-way-to-learn-guitar), [Screenshots](https://www.fatpick.com/about/media-kit#screenshot) and more info about [FATpick's Features](https://www.fatpick.com/fatpick-vs)
+ * [Demos](https://www.fatpick.com/get#better-way-to-learn-guitar), [Screenshots](https://www.fatpick.com/about/media-kit#screenshots) and more info about [FATpick's Features](https://www.fatpick.com/fatpick-vs)
 
 Or to **[Get the FATpick App Right Now](https://www.fatpick.com/get)**, currently free for Windows, Mac OS, and Linux.
 
